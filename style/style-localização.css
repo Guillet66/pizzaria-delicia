@@ -15,7 +15,7 @@ body {
 
 header {
     background-color: #BF2E00; /*Alteração de cores do css*/
-    position: fixed;
+    position: fixed; /* Posição do header */
     top: 0;
     width: 100%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
