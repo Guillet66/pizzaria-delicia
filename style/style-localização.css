@@ -1,3 +1,4 @@
+/* add fonte */
 @font-face {
     font-family: "Coolvetica";/*Alteração de fonte*/
     src: url("coolvetica/coolvetica\ condensed\ rg.otf");
@@ -5,6 +6,11 @@
     letter-spacing: 2px;
 } /* Iniciei e terminei o codigo - guille 😘 */
 
+
+* {
+    margin: 0;
+    padding: 0;
+}
 
 body {
     font-family: "Open Sans";
@@ -26,7 +32,7 @@ header nav a { /*Alteração de cores do css*/
     color: white;
     background-color: #F15A4D; /* cor similar ao tema do caminhão */
     padding: 10px 20px;
-    border-radius: 5px;
+    border-radius: 6px;
     display: inline-block;
     margin: 10px;
 }
